@@ -27,4 +27,4 @@ The application results_viewer is just a viewer for the rendered images in EXR f
 
 ### Troubles
 
-If you face any troubles during the compilation or the execution, please leave an issue on the repository web page on Github.
+If you face any troubles during the compilation or the execution, please leave an issue on the Github repository.
