@@ -1,5 +1,7 @@
 # pg2015-code
 
+![teaser image](https://raw.githubusercontent.com/Celeborn2BeAlive/pg2015-code/master/teaser_image.png)
+
 This repository contains the source code for our method proposed at the conference [Pacific Graphics 2015](http://cg.cs.tsinghua.edu.cn/pg2015/).
 
 The purpose of this method is to improve the Bidirectional Path Tracing (BPT) algorithm by resampling connections between path vertices, taking advantage of the information offered by a skeleton of the empty space of the scene. For more information, you can refer to [our paper](http://www.laurentnoel.fr/research/papers/Noel2015-PG.pdf). The paper is also provided in the repository.
