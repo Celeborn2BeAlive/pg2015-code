@@ -49,7 +49,7 @@ void generateResultsForPG15(const FilePath& applicationPath) {
 
     // Run multiple instances for different comparison times (in milliseconds)
     std::vector<std::size_t> renderTimes = {
-        /*10000, 30000,*/ 300000,/* 900000, 3600000, 7200000*/
+        /*10000, 30000,*/ 10000,/* 900000, 3600000, 7200000*/
     };
 
     PG15ICBPTSettings icBPTSettings; // Default settings for ICBPT
