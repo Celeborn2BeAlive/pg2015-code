@@ -1,4 +1,4 @@
-# pg2015-code
+# Skeleton based Vertex Connection Resampling for Bidirectional Path Tracing
 
 ![teaser image](https://raw.githubusercontent.com/Celeborn2BeAlive/pg2015-code/master/teaser_image.png)
 
