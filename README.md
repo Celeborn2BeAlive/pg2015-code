@@ -1,4 +1,4 @@
-# Skeleton based Vertex Connection Resampling for Bidirectional Path Tracing
+# Skeleton based Vertex Connection Resampling for Bidirectional Path Tracing - Code
 
 ![teaser image](https://raw.githubusercontent.com/Celeborn2BeAlive/pg2015-code/master/teaser_image.png)
 
